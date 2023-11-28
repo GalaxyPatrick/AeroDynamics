@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "71cfe6902ddff8b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3037625dfdd6b08b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16bd2b9400c2e058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d338d12baaa3d3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "77ae812f2cdfe0ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "378a13ad08ffeebb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5231d9937d943ed5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e24081e9198592fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b303bbf8671123b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4a6c6932602dee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bbf127275e2966d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90df513b0b13558e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb60b9072fd11c37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8cca21e82e8ac199",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "16bd2b9400c2e058",
+  "lastOpenFiles": [
+    "README.md",
+    "FoilDataGenerate/~AutoRecover.FoilDataGenerate.vcxproj",
+    "FoilDataGenerate/naca.c",
+    "FoilDataGenerate/FoilDataGenerate.vcxproj.filters",
+    "FoilDataGenerate/FoilDataGenerate.vcxproj.user",
+    "FoilDataGenerate/FoilDataGenerate.vcxproj",
+    "FoilDataGenerate"
+  ]
+}

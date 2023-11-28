@@ -1,0 +1,2 @@
+alpha = 5 degree, cl_by_zhukovsky = 0.7609
+alpha = 5 degree, cl_by_pressure_integral = 0.7519
